@@ -185,6 +185,5 @@ if st.button("🔍 Detect News"):
 
 st.markdown("---")
 st.caption(
-    "Fake News Detection | AIML Project | TF-IDF (1-2 n-grams) + Logistic Regression. "
-    "Note: Classifies linguistic patterns learned from the training dataset, not live fact-checking."
+    "Fake News Detection | TF-IDF (1-2 n-grams) + Logistic Regression. "
 )

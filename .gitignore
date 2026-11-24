@@ -1,0 +1,12 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Large datasets or binary artifacts (uncomment if over 100 MB)
+dataset/*.csv
+model/*.pkl
