@@ -1,27 +1,3 @@
-
-```
-Fake News Detection AIML Project
-├─ app.py
-├─ article_length_boxplot.png
-├─ dataset
-│  ├─ Fake.csv
-│  └─ True.csv
-├─ fake_real_pie_chart.png
-├─ fake_vs_real_news.png
-├─ fake_vs_real_news_dark.png
-├─ graph.py
-├─ model
-│  ├─ fake_news_model.pkl
-│  └─ tfidf_vectorizer.pkl
-├─ null_values.py
-├─ pie_chart.py
-├─ predict.py
-├─ preprocessing.py
-├─ README.md
-├─ requirements.txt
-└─ train.py
-
-```
 ```
 Fake News Detection AIML Project
 ├─ app.py
